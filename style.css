@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  border-radius: 10px;
+}
+
+body {
+  min-height: 100vh;
+  background-color: #f6f5f6;
+}
+
+.title {
+  background-color: #7551dc;
+  font-size: 46px;
+  font-weight: 500;
+  color: white;
+}
+
+.manage {
+  color: #121212;
+  font-weight: 500;
+  font-size: 26px;
+  background-color: white;
+}
+
+.maintain {
+  color: #121212;
+  font-weight: 500;
+  font-size: 26px;
+  background-color: #ffcc6a;
+}
